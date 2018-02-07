@@ -1,0 +1,9 @@
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\bin\Debug\netstandard2.0\PokerLogic.deps.json
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\bin\Debug\netstandard2.0\PokerLogic.dll
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\bin\Debug\netstandard2.0\PokerLogic.pdb
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\obj\Debug\netstandard2.0\PokerLogic.csprojResolveAssemblyReference.cache
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\obj\Debug\netstandard2.0\PokerLogic.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\obj\Debug\netstandard2.0\PokerLogic.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\obj\Debug\netstandard2.0\PokerLogic.AssemblyInfo.cs
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\obj\Debug\netstandard2.0\PokerLogic.dll
+C:\Users\pedro\source\repos\PokerLogic\PokerLogic\obj\Debug\netstandard2.0\PokerLogic.pdb
